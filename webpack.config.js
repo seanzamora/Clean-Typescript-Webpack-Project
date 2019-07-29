@@ -15,7 +15,7 @@ module.exports = {
     extensions: [ '.tsx', '.ts', '.js' ]
   },
   output: {
-    filename: 'plain.js',
+    filename: 'clean.js',
     path: path.resolve(__dirname, 'build/js')
   }
 };
