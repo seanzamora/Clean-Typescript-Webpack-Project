@@ -7,7 +7,7 @@
     "start":".\\node_modules\\.bin\\webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sean Zamora",
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^6.0.4",
