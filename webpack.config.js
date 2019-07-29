@@ -18,4 +18,4 @@ module.exports = {
     filename: 'clean.js',
     path: path.resolve(__dirname, 'build/js')
   }
-};
+}; 
